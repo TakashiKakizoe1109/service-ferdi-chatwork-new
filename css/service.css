@@ -1,0 +1,4 @@
+._unreadBadge > span{
+    background: rgba(29,144,255,.75);
+    font-weight: bold;
+}

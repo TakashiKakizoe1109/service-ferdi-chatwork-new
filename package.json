@@ -1,0 +1,21 @@
+{
+  "id": "ChatworkNew",
+  "name": "ChatworkNew",
+  "version": "1.0.0",
+  "description": "ChatworkNew",
+  "main": "index.js",
+  "author": "Takashi Kakizoe <takashikakizoe.1109@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.chatwork.com/#!rid{teamId}",
+    "serviceName": "ChatworkNew",
+    "message": "チームIDにはマイチャットのridを入力してください",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
+    "hasTeamId": true,
+    "hasPredefinedUrl": true,
+    "hasCustomUrl": false
+  }
+}
